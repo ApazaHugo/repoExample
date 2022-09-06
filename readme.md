@@ -6,3 +6,4 @@
 5. git log .
 6. git commmit .
 7. git checkout -- .
+8. git branch .
