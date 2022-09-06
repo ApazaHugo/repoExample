@@ -3,4 +3,6 @@
 2. git init .
 3. git add .
 4. git reset . 
-4. asd
+5. git log .
+6. git commmit .
+7. git checkout -- .
